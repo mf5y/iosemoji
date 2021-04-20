@@ -8,6 +8,6 @@ Currently even with: iOS 14.2
 * Samsung devices
 
 ## Changelog
-* v14.2 - Added iOS 14.2 Emoji
+* v14.2 - Added iOS 14.2 Emoji, changed update naming convention
 * v1.1 - Forked original [13.2 Repository](https://github.com/tychoregter/ios13emoji)
 * v1.0 - Initial release
