@@ -1,5 +1,5 @@
 # iOS Emoji 
-Magisk module to systemlessly replaces the system emoji font with Apple's iOS emojis.
+Magisk module to systemlessly replace the system emoji font with Apple's iOS emojis.
 
 Currently even with: iOS 13.2
 
