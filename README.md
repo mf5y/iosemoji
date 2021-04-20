@@ -8,4 +8,4 @@ Currently even with: iOS 13.2
 
 ## Changelog
 * v1.1 - Forked original [13.2 Repository](https://github.com/tychoregter/ios13emoji)
-* v1.0 - Initial releaseios13emoji
+* v1.0 - Initial release
