@@ -41,8 +41,9 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
+  ui_print "              mf5y             "
   ui_print "           iOS Emoji           "
-  ui_print "         Version: 14.2         "
+  ui_print "         Version: 14.5         "
   ui_print "*******************************"
 }
 
